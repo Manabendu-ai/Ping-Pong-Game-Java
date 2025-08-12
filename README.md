@@ -2,8 +2,6 @@
 
 A sleek and modern implementation of the classic Pong game built with Java. Features a beautiful gradient UI, smooth gameplay mechanics, and responsive controls.
 
-![Uploading image.png…]()
-
 
 ## ✨ Features
 
